@@ -1,5 +1,8 @@
 _repo: Some-Distinguished-Victims-of-the-Scaffold_52301
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52301-h/images/cover.jpg
 creator:
   author:
     agent_name: Bleackley, Horace
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46773'
     url: http://www.gutenberg.org/2009/agents/46773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52301#Some-Distinguished-Victims-of-the-Scaffold
 gutenberg_issued: '2016-06-10'
 gutenberg_type: Text
 identifiers:
