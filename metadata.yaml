@@ -1,0 +1,28 @@
+_repo: Some-Distinguished-Victims-of-the-Scaffold_52301
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bleackley, Horace
+    alias: Bleackley, Horace William
+    birthdate: 1868
+    deathdate: 1931
+    gutenberg_agent_id: '46773'
+    url: http://www.gutenberg.org/2009/agents/46773
+description: ''
+gutenberg_issued: '2016-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52301'
+  lccn: a11000280
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials -- Great Britain'
+- !lcsh 'Executions and executioners'
+- !lcc 'HV'
+- !lcsh 'Criminals -- Great Britain'
+- GITenberg
+title: Some Distinguished Victims of the Scaffold
+url: http://www.gutenberg.org/ebooks/52301
